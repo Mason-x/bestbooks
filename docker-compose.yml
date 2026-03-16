@@ -3,6 +3,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
+    image: bestbooks-app:latest
     container_name: bestbooks-app
     restart: unless-stopped
     ports:
@@ -10,33 +11,4 @@ services:
     environment:
       NODE_ENV: production
       PORT: 3000
-      DATABASE_URL: "${DATABASE_URL:-postgres://postgres:postgres@db:5432/booksdb}"
-    depends_on:
-      db:
-        condition: service_healthy
-
-  db:
-    image: postgres:16
-    container_name: bestbooks-db
-    restart: unless-stopped
-    environment:
-      POSTGRES_DB: "${POSTGRES_DB:-booksdb}"
-      POSTGRES_USER: "${POSTGRES_USER:-postgres}"
-      POSTGRES_PASSWORD: "${POSTGRES_PASSWORD:-postgres}"
-    ports:
-      - "${POSTGRES_PORT:-5432}:5432"
-    volumes:
-      - postgres_data:/var/lib/postgresql/data
-    healthcheck:
-      test:
-        [
-          "CMD-SHELL",
-          "pg_isready -U ${POSTGRES_USER:-postgres} -d ${POSTGRES_DB:-booksdb}",
-        ]
-      interval: 10s
-      timeout: 5s
-      retries: 10
-      start_period: 10s
-
-volumes:
-  postgres_data:
+      DATABASE_URL: "${DATABASE_URL}"

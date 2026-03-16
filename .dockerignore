@@ -3,8 +3,6 @@
 .next
 node_modules
 npm-debug.log*
-Dockerfile*
-docker-compose*
 .env
 .env.*
 !.env.example
