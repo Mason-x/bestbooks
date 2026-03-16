@@ -1,16 +1,22 @@
-import './globals.css';
-import type { Metadata } from 'next';
-import { GeistSans } from 'geist/font/sans';
-import { Toaster } from 'sonner';
-import { WelcomeToast } from '@/components/welcome-toast';
-import { cn } from '@/lib/utils';
-import { Filter, FilterFallback } from '@/components/filters';
-import { Search, SearchFallback } from '@/components/search';
-import { Suspense } from 'react';
+import type { Metadata } from "next";
+import { Merriweather, Source_Sans_3 } from "next/font/google";
+import "./globals.css";
+
+const titleFont = Merriweather({
+  variable: "--font-title",
+  subsets: ["latin"],
+  weight: ["400", "700"],
+});
+
+const bodyFont = Source_Sans_3({
+  variable: "--font-body",
+  subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
+});
 
 export const metadata: Metadata = {
-  title: 'Book Inventory — Next.js App Router',
-  description: 'View 2 million books from Goodreads.',
+  title: "BestBooks",
+  description: "Goodreads-style book list browser powered by PostgreSQL",
 };
 
 export default function RootLayout({
@@ -19,36 +25,9 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body
-        className={cn(
-          'bg-gray-100 font-sans antialiased dark:bg-black dark:text-white',
-          GeistSans.variable
-        )}
-      >
-        <div className="group flex w-full">
-          <div className="hidden md:block w-[300px] h-screen sticky top-0 p-8">
-            <div className="h-full rounded-lg bg-white dark:bg-gray-800 shadow-sm overflow-hidden">
-              <div className="h-full overflow-y-auto p-4">
-                <Suspense fallback={<FilterFallback />}>
-                  <Filter />
-                </Suspense>
-              </div>
-            </div>
-          </div>
-          <div className="flex-1 flex flex-col min-h-screen">
-            <div className="sticky top-0 z-10 bg-gray-100 dark:bg-black">
-              <div className="mx-8 py-4">
-                <Suspense fallback={<SearchFallback />}>
-                  <Search />
-                </Suspense>
-              </div>
-            </div>
-            <div className="flex-1 flex flex-col p-4">{children}</div>
-          </div>
-        </div>
-        <Toaster closeButton />
-        <WelcomeToast />
+    <html lang="zh-CN">
+      <body className={`${titleFont.variable} ${bodyFont.variable} antialiased`}>
+        <div className="page-shell">{children}</div>
       </body>
     </html>
   );

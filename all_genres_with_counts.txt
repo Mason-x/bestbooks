@@ -1,0 +1,1366 @@
+# Distinct genres from books.genres
+# format: genre<TAB>count
+10th Century	166
+11th Century	848
+12th Century	2467
+13th Century	3064
+14th Century	9991
+15th Century	4929
+16th Century	18658
+17th Century	29574
+18th Century	101946
+1917	130
+19th Century	1184885
+1st Grade	14758
+20th Century	578492
+21st Century	26509
+2nd Grade	13164
+40k	4043
+Aapi	1114
+Abuse	54554
+Academia	4093
+Academic	73986
+Academics	1701
+Accounting	1465
+Action	265831
+Activism	7446
+Adaptations	176
+Addiction	10874
+Addition	55
+Adhd	3134
+Adolescence	383
+Adoption	7414
+Adult	828462
+Adult Colouring Books	192
+Adult Fiction	219400
+Adventure	1589479
+Aeroplanes	385
+Africa	121950
+African American	108277
+African American Literature	6628
+African American Romance	9551
+African Literature	10625
+Agatha Christie	60399
+Age Gap Romance	1781
+Agriculture	3355
+Aircraft	92
+Airships	19
+Albanian Literature	908
+Alchemy	3597
+Alcohol	4035
+Alexandria	83
+Algebra	309
+Algeria	1712
+Algorithms	493
+Aliens	81355
+Alternate History	18535
+Alternate Universe	326
+Alternative Medicine	628
+Amateur Sleuth	3898
+Amazon	115128
+American	604881
+Americana	24397
+American Civil War	19837
+American Classics	3441
+American Fiction	5332
+American History	188490
+American Revolution	21092
+American Revolutionary War	8415
+Amish	14531
+Amish Fiction	10986
+Anarchism	3740
+Ancient	122957
+Ancient History	102795
+Angels	23011
+Anglo Saxon	1158
+Angola	1020
+Animal Fiction	9415
+Animals	369007
+Anime	5851
+Anthologies	106239
+Anthropology	68465
+Anthropomorphic	789
+Anti Racist	5925
+Antisemitism	323
+Apocalyptic	30229
+Apple	1002
+Applied Mathematics	15
+Archaeology	12453
+Architecture	15113
+Arithmetic	51
+Art	170729
+Art and Photography	3678
+Art Books Monographs	17
+Art Design	10851
+Art History	24167
+Arthurian	22759
+Artificial Intelligence	7644
+Asexual	529
+Asia	123045
+Asian American	4083
+Asian Literature	37543
+Aspergers	636
+Astrology	2020
+Astronomy	14781
+Atheism	17186
+Atlases	258
+Audiobook	4200935
+Australia	44984
+Autistic Spectrum Disorder	8138
+Autobiography	256933
+Aviation	15447
+Aviation History	43
+Babylon 5	68
+Back To School	2459
+Baha I	156
+Bande Dessinée	34717
+Bangladesh	953
+Banking	1550
+Banks	918
+Banned Books	37565
+Baseball	12255
+Basketball	4565
+Batman	9946
+Battle Of Britain	230
+BDSM	53429
+Beach Reads	6908
+Beauty and The Beast	4974
+Beer	561
+Belgian	5273
+Belgium	7478
+Belief	251
+Beverages	95
+Biblical	6026
+Biblical Fiction	6402
+Biblical Studies	7616
+Bicycles	939
+Bigfoot	163
+Billionaire Romance	9358
+Billionaires	5867
+Biographical Fiction	1677
+Biography	775716
+Biography Memoir	346983
+Biology	71801
+Birds	13878
+Bird Watching	12
+Bisexual	1573
+Bisexual Romance	5
+Bizarro Fiction	623
+Black Historical Fiction	86
+Black Literature	925
+Boarding School	8960
+Boating	14
+Bodies	3933
+Bodyguard Romance	484
+Bolivia	617
+Bombers	2
+Book Club	752619
+Books About Books	53143
+Booze	614
+Borrowed	28
+Botswana	2226
+Boxers	18
+Boys Love	5893
+Brain	11951
+Brazil	17618
+Brewing	480
+British Literature	1026256
+British Royalty	109
+Buddhism	34288
+Buffy The Vampire Slayer	1251
+Buisness	30874
+Bulgaria	2094
+Bulgarian Literature	1767
+Burkina Faso	85
+Burundi	160
+Buses	151
+Business	265025
+Business Ethics	26
+Business Leadership	3689
+Business Strategy	1235
+Butch Femme	1189
+Cabo Verde	3
+Cairo	206
+Calculus	900
+Cameroon	317
+Campus	275
+Canada	139572
+Canadian Literature	12791
+Canon	4741
+Cape Town	41
+Cars	1772
+Cartography	450
+Cartoon	2629
+Category Romance	7727
+Catholic	66820
+Cats	39671
+Celebrity	13614
+Celebrity Romance	756
+Central Africa	19
+Central African Republic	11
+Chad	135
+Challenged Books	65
+Chapter Books	80034
+Chemistry	5084
+Chess	3238
+Chick Lit	295991
+Child Psychology	258
+Childrens	1344276
+Childrens Classics	66260
+Childrens Mystery	230
+Children S Mystery	7
+China	66446
+Chinese Literature	11871
+Chivalry	163
+Choose Your Own Adventure	1104
+Christian	467328
+Christian Contemporary Fiction	32
+Christian Fantasy	2978
+Christian Fiction	170662
+Christian Fiction Amish	58
+Christian Historical Fiction	10250
+Christian History	794
+Christianity	302004
+Christian Living	105805
+Christian Non Fiction	59247
+Christian Romance	46612
+Christian Romance Historical	4
+Christmas	118414
+Church	19614
+Church History	19056
+Church Ministry	675
+Cinderella	2060
+Cities	5725
+Civil Engineering	183
+Civil War	39255
+Civil War Confederacy	20
+Civil War Eastern Theater	226
+Civil War History	1023
+Civil War Western Theater	155
+Class	1218
+Classical Music	1986
+Classical Studies	9165
+Classic Literature	597049
+Classics	5124823
+Class Issues	13
+Clean Romance	30605
+Climate Change	8536
+Climate Change Fiction	883
+Climbing	3081
+Cocktails	338
+Coding	5682
+Coffee Table Books	1860
+Coin Collecting	191
+Collections	76819
+Colleen Hoover	1765
+College	76733
+College Romance	13786
+Colouring	252
+Colouring Books	353
+Comedian	841
+Comedy	167497
+Comic Book	91015
+Comic Fantasy	749
+Comics	290447
+Comics Bd	1873
+Comics Manga	77833
+Comic Strips	3415
+Coming Of Age	103425
+Comix	9961
+Communication	28712
+Comoros	5
+Computation	79
+Computers	13511
+Computer Science	18568
+Conservation	1813
+Conspiracy Theories	8627
+Construction	1743
+Contemporary	1229839
+Contemporary History	313
+Contemporary Romance	502963
+Cookbooks	31245
+Cooking	38176
+Coptic Language	3
+Costume History	32
+Counselling	22116
+Counter Culture	964
+Counting	5887
+Courtroom Drama	769
+Couture	8
+Cowboy Romance	6216
+Cozy	90584
+Cozy Fantasy	1875
+Cozy Fiction	10
+Cozy Mystery	128381
+Cozy Romance	137
+Crafts	16891
+Creation Science	223
+Creative	3869
+Crime	1069363
+Criticism	22951
+Crochet	572
+Cross Dressing	436
+Cryonics	47
+Cryptids	231
+Cryptozoology	233
+Cthulhu Mythos	10689
+Cuisine	2548
+Culinary	11632
+Cult Classics	1762
+Cults	4548
+Cultural	89863
+Cultural Heritage	154
+Cultural Studies	4039
+Curation	31
+Currency	23
+Current Affairs	7934
+Cyberpunk	13575
+Cycling	2242
+Czech Literature	15298
+Danish	10857
+Dark	90809
+Dark Academia	28089
+Dark Comedy	56
+Dark Fantasy	21480
+Dark Humor	202
+Dark Romance	74699
+Dc Comics	20452
+Death	31505
+Deception	287
+Democratic Republic Of The Congo	89
+Demons	40420
+Denmark	9500
+Dentistry	54
+Design	28853
+Detective	480065
+Developmental Psychology	93
+Devotional	24212
+Diary	11081
+Dictionaries	2027
+Did Not Finish	48
+Diets	7771
+Dinosaurs	24011
+Disability	26055
+Disability Studies	675
+Discipleship	12046
+Disease	1525
+Divination	1787
+Division	164
+Divorce	2466
+Djibouti	21
+Doctors	3361
+Doctor Who	3085
+Documentaries	11
+Dogs	53990
+Domestic	821
+Domestic Fiction	513
+Domestic Suspense	109
+Domestic Thriller	1117
+Downton Abbey	299
+Drag	102
+Dragonlance	2077
+Dragons	73181
+Drama	492424
+Dramedy	19
+Drawing	4023
+Dressmaking	70
+Drinking	225
+Drugs	13045
+Dual Timeline	1266
+Dungeons and Dragons	6495
+Dutch Literature	5609
+Dying Earth	1251
+Dystopia	181370
+Earth	583
+Earth Sciences	613
+Eastern Africa	103
+Eastern Philosophy	11451
+Ebooks	416840
+Ecclesiology	3400
+Ecology	15890
+Economic Development	270
+Economics	156129
+Education	114039
+Edwardian	2384
+Egypt	24504
+Egyptian Literature	2723
+Egyptology	2711
+Electrical Engineering	463
+Elizabethan Period	508
+Elves	2994
+Emergency Services	47
+Emotion	10201
+Emotional	14650
+Emotional Romance	24
+Empiricism	12765
+Enemies To Lovers	107228
+Engineering	12540
+English Civil War	372
+English Literature	116486
+Entrepreneurship	33987
+Environment	57462
+Environmental Science	114
+Epic	42376
+Epic Fantasy	81441
+Epic Poetry	1233
+Equality	75
+Equatorial Guinea	114
+Eritrea	219
+Erotica	153835
+Erotic Historical Romance	275
+Erotic Horror	331
+Erotic Paranormal Romance	17
+Erotic Romance	53927
+Esoterica	8786
+Esp	1451
+Espionage	99448
+Essays	322373
+Ethiopia	1121
+Ethnic	13
+Ethnicity	6
+Ethnic Studies	7
+Ethnography	1263
+Eugenics	4340
+European History	55468
+European Literature	8965
+Evangelism	3712
+Evolution	38669
+Fables	3331
+Fae	39365
+Fairies	12598
+Fairy Tale Retellings	5821
+Fairy Tales	171581
+Faith	210915
+Fake Dating	12287
+Family	244447
+Family Drama	6655
+Family Law	26
+Family Life	369
+Fandom	1005
+Fan Fiction	2539
+Fantasy	2376193
+Fantasy Of Manners	148
+Fantasy Romance	42039
+Far Right	109
+Fashion	7903
+Fashion Design	221
+Fashion Designers	11
+Fashion History	608
+Fat	275
+Fat Acceptance	112
+Fat Studies	186
+Favorites	2840
+Female Authors	19619
+Feminism	188072
+Feminist Studies	7
+Feminist Theory	843
+Femme Femme	777
+Femslash	5
+F F F	7
+Fiction	7284707
+Field Guides	611
+Fighters	4290
+Figure Skating	269
+Film	27305
+Finance	80036
+Financial Management	9
+Finnish Literature	7365
+Fire Engines	12
+Firefighters	5392
+Fire Services	130
+Fish Out Of Water	13
+Fitness	11123
+Flash Fiction	540
+F M F	34
+Folklore	77166
+Folk Tales	6756
+Food	81730
+Food and Drink	15412
+Food and Wine	1423
+Food History	1778
+Foodie	9433
+Food Preservation	273
+Food Science	254
+Food Writing	5151
+Football	15221
+Forbidden Love	6771
+Forbidden Romance	7290
+Forced Proximity	33059
+Forgotten Realms	4251
+Foster Children	26
+Fostering	2516
+Found Family	9480
+Fractured Fairy Tales	1282
+France	549584
+Freight	6
+French Literature	318975
+French Revolution	21603
+Friendship	99366
+Friends To Lovers	88533
+Frugal	31
+Fundamentalism	93
+Futurism	3015
+Futuristic	10835
+Futuristic Romance	268
+Gamebooks	930
+Game Design	1196
+Games	8366
+Gaming	7303
+Gaming Fiction	4
+Gardening	13268
+Gaslamp Fantasy	67
+Gastronomy	1402
+Gay	54542
+Gay Erotica	25
+Gay Fiction	3197
+Gay For You	4527
+Geek	359
+Gemstones	95
+Gender	27126
+Gender and Sexuality	1229
+Genderfluid	124
+Gender Identity	233
+Genderqueer	675
+Gender Roles	232
+Gender Studies	5478
+Genetics	4411
+Geoffrey Chaucer	854
+Geography	11922
+Geology	3189
+Geometry	601
+Georgian	4464
+Georgian Romance	308
+German Literature	220439
+Germany	113392
+Gettysburg Campaign	4
+Ghana	945
+Ghosts	63895
+Ghost Stories	13775
+Glaciers	18
+Global Warming	351
+Gnosticism	872
+Go	660
+God	3647
+Goddess	723
+Gods	4336
+Golden Age Mystery	29535
+Goodreads Choice Awards	97
+Google	2394
+Goth	150
+Gothic	396267
+Gothic Horror	3440
+Gothic Romance	5055
+Government	14614
+Grad School	6783
+Graffiti	142
+Graphica	17
+Graphic Literature	40
+Graphic Non Fiction	85
+Graphic Novels	303909
+Graphic Novels Comics	128085
+Graphic Novels Comics Manga	493
+Graphic Novels Manga	9700
+Greece	73602
+Greek Mythology	46339
+Green	1975
+Grief	21951
+Grimm	297
+Gritty	229
+Growth Mindset	1310
+Guidebook	3342
+Guides	2642
+Guinea	144
+Gynaecology	28
+Habsburg Empire	20
+Hackers	1754
+Halloween	24671
+Hard Boiled	22110
+Hard Science Fiction	7077
+Harem	4721
+Harlequin	39924
+Harlequin Blaze	1038
+Harlequin Category Romance	26
+Harlequin Desire	2352
+Harlequin Heartwarming	42
+Harlequin Historical	1013
+Harlequin Medical Romance	17
+Harlequin Nocturne	407
+Harlequin Presents	7642
+Harlequin Romance	8831
+Harlequin Romantic Suspense	67
+Harlequin Teen	50
+Harry Potter	17030
+Heads	36
+Health	123336
+Health Care	3763
+He Falls First	3334
+Herbs	1618
+Heritage Preservation	40
+Heroic Fantasy	2713
+Hierarchy	5
+High Fantasy	132118
+High School	101399
+High Society	51
+Hinduism	14316
+Hip Hop	1180
+Hispanic	2175
+Historical	1831200
+Historical Costume	3
+Historical Drama	12
+Historical Fantasy	14489
+Historical Fiction	2769220
+Historical Mystery	63870
+Historical Romance	261522
+Historical Sewing	7
+Historical Thriller	201
+History	1326202
+History and Politics	1224
+History Of Medicine	582
+History Of Science	10272
+Hockey	15293
+Hockey Romance	10456
+Holiday	100624
+Holiday Romance	2711
+Holland	564
+Holocaust	48025
+Home Economics	165
+Home Improvement	38
+Homeschool	822
+Horror	618605
+Horror Thriller	19145
+Horse Racing	1906
+Horses	32266
+Horticulture	555
+Hospitals	122
+How To	24067
+Hqn	6200
+Hugo Awards	4242
+Huguenots	24
+Human Development	1400
+Humanities	2082
+Human Resources	350
+Humor	739399
+Hungarian Literature	5596
+Hungary	6455
+Ice Age	16
+Illness	2236
+India	83266
+Indian Literature	32159
+Indigenous	19740
+Indigenous History	204
+Indonesian Literature	9545
+Informatics	13
+Information Science	150
+Inspirational	118129
+Intelligent Design	235
+Intensive Care	158
+Interior Design	624
+International	6930
+International Affairs	1184
+International Development	1848
+International Literature	168
+International Relations	12296
+Internet	3212
+Interracial Romance	6390
+Intersex	143
+Investigative	42
+Investigative Journalism	287
+Iran	15813
+Ireland	93196
+Irish Literature	99430
+Islam	38712
+Islamic Terrorism	8
+Islamism	184
+Israel	13793
+Italian Literature	123822
+Italy	154330
+Ivory Coast	160
+Japan	81623
+Japanese History	1008
+Japanese Literature	59219
+Jaws	42
+Jazz	2121
+Jewellery	154
+Jewellery Making	31
+Jewish	53750
+Johannesburg	17
+Jokes	40
+Josei	4877
+Journal	2306
+Journaling	1176
+Journalism	45901
+Judaica	5094
+Judaism	18583
+Justice	2347
+Juvenile	258321
+Kazakhstan	326
+Kennedy Family	305
+Kenya	4015
+Kids	76642
+Knitting	4412
+Komik	3098
+Ku Klux Klan	2
+Labor	2166
+Landscape Architecture	49
+Landscaping	17
+Language	39621
+Latina	207
+Latin American	39739
+Latin American History	2661
+Latin American Literature	25202
+Latino	2450
+Latinx	11345
+Law	36874
+Lds	9700
+Lds Fiction	3438
+Lds Non Fiction	1907
+Leadership	106749
+Lebanon	6259
+Led Zeppelin	136
+Legal	23901
+Legal Thriller	28288
+Lenin	1324
+Leningrad	39
+Lesbian	38529
+Lesbian Fiction	6985
+Lesbian Romance	7939
+Lesotho	10
+LGBT	244049
+LGBT Romance	110
+Liberia	379
+Librarianship	501
+Library Science	615
+Libya	555
+Lie	74
+Lifestyle	3360
+Light Novel	8183
+Linguistics	14441
+Lit Crit	180
+Literary Criticism	32953
+Literary Fiction	567337
+Literary Horror	24
+Literary Thriller	12
+Literature	3315456
+Local History	179
+Logic	7285
+London	18469
+Lost Love	48
+Love	54028
+Lovecraftian	35471
+Love Inspired	6326
+Love Inspired Historical	716
+Love Inspired Suspense	4114
+Love Story	5108
+Loveswept	289
+Low Fantasy	290
+Luxemburg	50
+Madagascar	103
+Mafia Romance	20043
+Magic	405470
+Magical Realism	79961
+Magick	6537
+Mail Order Brides	1040
+Malawi	220
+Mali	304
+Management	53231
+Managers	24
+Manga	147863
+Manga Romance	3794
+Manhwa	3113
+Maps	1268
+Marathi	1361
+Maritime	13371
+Marriage	19128
+Marriage Of Convenience	19160
+Martial Arts	7860
+Marvel	23086
+Mary I	31
+Mary Shelley	1102
+Material Culture	110
+Mathematics	40371
+Mauritania	41
+Mauritius	402
+Media Analysis	23
+Media Tie In	41990
+Medical	59406
+Medical Ethics	41
+Medical Profession	4
+Medicine	48740
+Medieval	132168
+Medieval History	12202
+Medievalism	43
+Medieval Romance	10277
+Meditation	23722
+Meet Cute	65
+Memoir	546609
+Menage	20576
+Mental Health	115860
+Mental Illness	19522
+Mermaids	11454
+Metaphysics	53275
+M F F	130
+M F M	6131
+M F Romance	29935
+Microhistory	4516
+Middle East	75406
+Middle Grade	727314
+Military Fiction	225803
+Military History	77465
+Military Romance	15506
+Military Science Fiction	12070
+Military Thriller	1659
+Mills and Boon	1657
+Mindfullness	43
+Mine	757
+Mira	260
+Mixed Martial Arts	2414
+M M Contemporary	9462
+M M F	5465
+M M Fantasy	2104
+M M Historical Romance	786
+M M M	3813
+M M M F	3
+M M M M	107
+M M Mystery	413
+Mmorpg	94
+M M Paranormal	3591
+M M Romance	94282
+M M Romantic Suspense	40
+M M Science Fiction	333
+M M Shapeshifters	1717
+M M Sports Romance	1331
+M M Supernatural	32
+M M Urban Fantasy	4
+M M Young Adult	26
+Modern	11134
+Modern Classics	23649
+Money	35452
+Money Management	392
+Monster Romance	4163
+Monsters	13290
+Morally Gray	14
+Morally Grey	179
+Mormonism	3235
+Moroccan	73
+Morocco	2558
+Moscow	141
+Motorcycle	4950
+Motorcycling	365
+Mountaineering	4239
+Mozambique	674
+Multicultural Literature	482
+Multiple Partners	134
+Multiplication	116
+Murder Mystery	121918
+Museology	124
+Museums	824
+Music	94671
+Musicals	1997
+Music Biography	3806
+Musicians	9287
+Muslimah	46
+Muslims	1575
+Mystery	1717656
+Mystery Romance	640
+Mystery Thriller	920050
+Mysticism	27314
+Mythical Creatures	214
+Mythology	259132
+Nairobi	2
+Namibia	482
+Narrative	1190
+Native American	29076
+Native American History	1248
+Native Americans	9449
+Natural History	40839
+Nature	189131
+Naturopathy	126
+Nautical	41487
+Naval Historical Fiction	1020
+Naval History	4840
+Nazi Party	1915
+Near Future	1020
+Nerd	428
+Neuroscience	19407
+New Adult	139474
+New Adult Romance	2223
+New Age	18260
+New Testament	6996
+New Weird	1480
+New York	49102
+Niger	38
+Nigeria	5191
+Nobel Prize	76577
+Noir	78332
+Nonfiction	2464620
+Nordic Noir	23580
+Norman	85
+North American History	23
+Northern Africa	348
+Novel In Verse	3532
+Novella	141635
+Novels	2128948
+NSFW	215
+Number	3174
+Number Theory	13
+Numeracy	65
+Numerology	170
+Numismatics	191
+Nursery Rhymes	2262
+Nursing	3784
+Nutrition	20107
+Occult	28770
+Occult Detective	260
+Old Testament	3632
+Omegaverse	8743
+Oral History	1364
+Organizational Culture	17
+Organizational Development	157
+Origami	18
+Ornithology	1077
+Outdoors	13445
+Outlander	2685
+Outlander Series	888
+Own	8538
+Own Voices	9
+Paganism	7488
+Pakistan	5759
+Palaeontology	1932
+Paramedics	106
+Paranormal	488959
+Paranormal Fiction	314
+Paranormal Mystery	4037
+Paranormal Romance	190547
+Paranormal Urban Fantasy	1239
+Parenting	57756
+Patternmaking	39
+Peak Oil	273
+Pediatrics	35
+Peer Review	88
+Percy Jackson	4844
+Period Drama	75
+Personal Development	217090
+Personal Finance	21313
+Personal Growth	44936
+Philosophy	1212000
+Photography	13548
+Physical Therapy	256
+Physics	45982
+Physiotherapy	58
+Picture Books	280893
+Pilots	374
+Pirates	40101
+Planetary Romance	4219
+Planetary Science	41
+Planets	405
+Plantagenet	2403
+Plants	7143
+Plays	348844
+Plus Size	1696
+Poetry	593510
+Poetry Plays	6620
+Poland	18331
+Police	16718
+Police Romance	1
+Polish Literature	23287
+Political Science	124456
+Political Thriller	7812
+Politics	653239
+Polyamorous	468
+Polyamory	4881
+Polyandry	7
+Polygamy	785
+Pop Culture	20486
+Popular Science	32805
+Pornography	204
+Portugal	14409
+Portuguese Literature	26427
+Positivism	282
+Post Apocalyptic	60812
+Post Colonial	637
+Poverty	5045
+Prayer	16428
+Prehistoric	2936
+Prehistory	2954
+Pre K	3674
+Pre Raphaelite	37
+Preservation	131
+Presidents	27345
+Princesses	2331
+Procedural	34894
+Productivity	35921
+Professional Development	17649
+Professors	134
+Programming	15197
+Programming Languages	279
+Prostitution	681
+Pseudoscience	444
+Psychiatry	5319
+Psychoanalysis	18263
+Psychological Drama	41
+Psychological Horror	55
+Psychological Suspense	359
+Psychological Thriller	38894
+Psychology	477431
+Public Policy	682
+Pulp	107266
+Pulp Adventure	1452
+Pulp Noir	131
+Punk	2175
+Punx	3
+Puzzles	982
+Qualitative Research	125
+Quantum Mechanics	2590
+Queer	148618
+Queer Fantasy	53
+Queer Lit	2466
+Queer Romance	346
+Queer Studies	344
+Quilting	2119
+Rabbits	5447
+Race	95038
+Racing	1411
+Rags To Riches	61
+Railways	665
+Read For College	217
+Read For School	206709
+Realistic Fiction	166504
+Realistic Young Adult	8
+Real Person Fiction	1
+Recreation	444
+Recruitment	221
+Reference	296569
+Regency	90724
+Regency Romance	57568
+Relationships	55110
+Religion	668435
+Renaissance	20816
+Renaissance Studies	23
+Reportage	3115
+Republic Of The Congo	47
+Research	22991
+Research Methods	282
+Retellings	43315
+Reverse Harem	22631
+Road Trip	3046
+Robots	6124
+Rock Climbing	91
+Rock N Roll	7262
+Role Playing Games	4209
+Roller Derby	88
+Roman	225931
+Roman Britain	560
+Romance	2532035
+Roman History	12820
+Romania	6552
+Romanian Literature	6207
+Romanovs	1138
+Romantasy	35761
+Romantic	5499
+Romantic Comedy	8268
+Romanticism	26300
+Romantic Mystery	79
+Romantic Suspense	138287
+Romantic Thriller	62
+Rom Com	17756
+Royal Air Force	190
+Royal Romance	1053
+Royalty	35452
+Rus	1502
+Russia	241301
+Russian Empire	32
+Russian History	9779
+Russian Literature	184059
+Russian Revolution	2377
+Rwanda	1358
+Sao Tome and Principe	39
+Satanism	537
+Satire	92336
+Scandinavian Literature	68111
+School	1079750
+School Stories	8220
+Science	390305
+Science Fiction	821512
+Science Fiction Fantasy	388393
+Science Fiction Romance	16237
+Science Nature	10005
+Scientific Method	9
+Sci Fi Fantasy	2959
+Scores	68
+Scotland	85906
+Scripture	7651
+Second Chance	65354
+Second Chance Romance	23635
+Seinen	23865
+Self Building	22
+Self Esteem	3401
+Self Help	419130
+Self Reliance	590
+Semiotics	986
+Senegal	519
+Sequential Art	7354
+Serbian Literature	3072
+Serial Killer	11540
+Sewing	1341
+Sex and Erotica	4
+Sexuality	16424
+Sex Work	766
+Shakespeare	185550
+Shapeshifters	78927
+Shojo	27650
+Shonen	46797
+Short Stories	909502
+Short Story Collection	19905
+Shounen Ai	554
+Sierra Leone	284
+Siglo De Oro	589
+Silhouette	869
+Singularity	554
+Skeletons	31
+Skepticism	2069
+Slash Fiction	66
+Sleuth	82
+Slice Of Life	22474
+Slow Burn	23672
+Slow Burn Romance	87
+Small Business	268
+Small Town Romance	25984
+Smut	35228
+Soccer	4914
+Social	7659
+Social Change	597
+Social Commentary	673
+Social Issues	6950
+Social Justice	46497
+Social Media	2301
+Social Movements	174
+Social Science	28847
+Social Welfare	15
+Social Work	4951
+Society	31835
+Sociology	190101
+Software	10219
+Solarpunk	275
+Soldiers	258
+Somalia	897
+South Africa	10336
+Southern	53207
+Southern Africa	180
+Southern Gothic	20436
+South Sudan	88
+Soviet History	1108
+Soviet Union	3328
+Space	78144
+Space Opera	77492
+Spain	74840
+Spanish Civil War	3111
+Spanish History	1135
+Spanish Literature	126353
+Speculative Fiction	127454
+Spicy Romance	351
+Spider Man	3385
+Spiritualism	1326
+Spirituality	421681
+Splatterpunk	2902
+Sports	116870
+Sports Romance	40467
+Spy Thriller	33956
+Stand Up	232
+Star Crossed	33
+Star Trek	8444
+Star Trek Deep Space Nine	1448
+Star Trek Enterprise	210
+Star Trek Original Series	2120
+Star Trek The Next Generation	1998
+Star Trek Voyager	569
+Startup	4966
+Star Wars	13084
+Steampunk	36688
+Steampunk Romance	23
+Steamy Romance	531
+Stem	15843
+Stories	714
+Storytime	76273
+St Petersburg	6
+Street Art	115
+Strippers	69
+Strong Female	316
+Strong Female Lead	270
+Stuart	189
+Students	24
+Subtraction	12
+Sudan	1174
+Suisse	115
+Summer	26425
+Summer Reads	11058
+Summer Romance	69
+Superheroes	50340
+Superman	3298
+Supernatural	194011
+Supernatural Romance	346
+Superstition	12
+Surprise Pregnancy	2886
+Surreal	1842
+Survival	45514
+Suspense	588342
+Sustainability	10476
+Swashbuckling	4675
+Swaziland	10
+Sweden	30003
+Swedish Literature	34082
+Sword and Planet	15274
+Sword and Sorcery	15492
+Syrian Civil War	37
+Tanzania	767
+Taoism	6188
+Tarot	1143
+Tasmania	1048
+Taxation	219
+Tea	3545
+Teachers	4231
+Teaching	23023
+Technical	16935
+Technology	55838
+Teen	101322
+Teeth	52
+Terrorism	8787
+Textbooks	41965
+Thanksgiving	2674
+The Americas	2760
+Theatre	304608
+The Gambia	18
+Thelema	1424
+Theology	259287
+Theory	117026
+Theosophy	1933
+The United States Of America	138945
+The World	4325
+Threesome	168
+Thriller	1021198
+Thriller Suspense	17451
+Time Travel	90547
+Time Travel Romance	3341
+Togo	66
+Traditional Chinese Medicine	149
+Traditional Regency	776
+Tragedy	18715
+Trains	2430
+Transgender	5873
+Transgender Romance	8
+Translated Fiction	1237
+Transport	5996
+Travel	227984
+Travelogue	7184
+Trivia	2199
+Trucks	1356
+True Crime	58112
+True Story	7285
+Tudor Period	11570
+Tunisia	178
+Turkish	11171
+Turkish Literature	10122
+Tv	8549
+Uganda	634
+Ukraine	8746
+Ukrainian Literature	2426
+Underground Railway	31
+Unfinished	89078
+Unicorns	2651
+United States	13647
+Upstairs Downstairs	10
+Urban	13572
+Urban Design	542
+Urban Fantasy	216395
+Urban Fantasy Romance	21
+Urbanism	4133
+Urban Legends	88
+Urban Planning	3195
+Urban Studies	2144
+Usability	523
+Us Air Force	22
+Us Presidents	6574
+Utopia	1020
+Vacation Reads	11
+Vaccines	265
+Vampire Hunters	17
+Vampire Romance	2437
+Vampires	147905
+Vegan	5180
+Vegetarian	2056
+Vegetarianism	125
+Vespa	12
+Victor Frankenstein	887
+Victorian	403770
+Victorian Romance	298
+Video Games	8851
+Viking Romance	838
+Virtual Reality	954
+Visual Art	1357
+Walking	6043
+War	441544
+Warcraft	1136
+Warriors	331
+Wattpad	2
+Web	2411
+Webcomic	2168
+Website Design	1700
+Weird Fiction	47875
+Weird West	569
+Werecats	7
+Werewolves	36423
+Western Africa	612
+Western Historical Romance	5020
+Western Romance	20648
+Westerns	167793
+Western Sahara	35
+Whodunit	1578
+Wholesome	70
+Why Choose	22793
+Wicca	3619
+Wilderness	878
+Wildlife	2820
+Wine	1828
+Witchcraft	9960
+Witches	57459
+Witty Banter	61
+Wizards	404
+Wolves	7200
+Womens	119400
+Womens Fiction	56456
+Womens Rights	94
+Womens Sports	10
+Womens Studies	3288
+Wonder Woman	994
+Woodwork	397
+Words	2572
+Workplace	5233
+Workplace Romance	9587
+World History	59507
+World Literature	3255
+World Of Darkness	72
+World Of Warcraft	1113
+World War I	33042
+World War II	148798
+Writing	77728
+Wwii Fiction	982
+X Men	4184
+YA Horror	739
+Yaoi	6981
+YA Romantasy	20
+Yeti	37
+Young Adult	1385770
+Young Adult Contemporary	23954
+Young Adult Fantasy	71199
+Young Adult Historical Fiction	2146
+Young Adult Horror	17
+Young Adult Mystery	48
+Young Adult Paranormal	1292
+Young Adult Romance	14214
+Young Adult Science Fiction	1360
+Young Readers	3414
+Yuri	1743
+Zambia	413
+Zen	7701
+Zimbabwe	1614
+Zombies	24597
+漫画	1802

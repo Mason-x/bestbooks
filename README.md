@@ -1,18 +1,65 @@
-# Next.js Book Inventory
+# BestBooks
 
-Demo: https://next-books-search.vercel.app
+Goodreads-style book list browser for a local PostgreSQL dataset (`booksdb.public.books`).
 
-This is a book inventory app built with Next.js, Drizzle, and PostgreSQL. The database contains over 2,000,000 books from Goodreads. [Full dataset here](https://mengtingwan.github.io/data/goodreads.html).
+## Features (MVP)
 
-## Database Setup
+- List page only (no detail page, no reviews UI)
+- Search by title/author
+- Filters: language, genre, rating thresholds, year range
+- Sorting: popular, top rated, newest
+- Cursor (keyset) pagination for large tables
+- JSON API endpoint: `/api/books`
 
-This is currently using a Postgres extension called `unaccent` to remove accents from the book titles. This also uses the pgvector extension to use Postgres as a vector store. To install these extensions, run the following command on your database:
+## Setup
 
-```sql
-CREATE EXTENSION IF NOT EXISTS unaccent;
-CREATE EXTENSION IF NOT EXISTS vector;
+1. Create `.env.local`
+
+```bash
+cp .env.example .env.local
 ```
 
-## Deploy on Vercel
+2. Set `DATABASE_URL` in `.env.local`
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/templates/next.js/next-book-inventory)
+```env
+DATABASE_URL=postgres://postgres:YOUR_PASSWORD@localhost:5432/booksdb
+```
+
+3. Install and run
+
+```bash
+npm install
+npm run dev
+```
+
+Open `http://localhost:3000/books`.
+
+## Performance (Important)
+
+Your `books` table has 10M+ rows. Create indexes before expecting good search/filter performance:
+
+```bash
+psql "postgres://postgres:YOUR_PASSWORD@localhost:5432/booksdb" -f db/indexes.sql
+```
+
+If `psql` is not installed, run the SQL from `db/indexes.sql` using your preferred DB tool.
+
+## API Example
+
+```txt
+/api/books?q=dune&sort=popular&lang=en&limit=24
+```
+
+Supported query params:
+
+- `q`
+- `author`
+- `lang`
+- `genre`
+- `sort` (`popular` | `rating` | `newest`)
+- `limit` (max 48)
+- `cursor`
+- `minRating`
+- `minRatings`
+- `yearFrom`
+- `yearTo`
