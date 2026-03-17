@@ -59,7 +59,7 @@ Supported query params:
 - `sort` (`popular` | `rating` | `newest`)
 - `limit` (max 48)
 - `cursor`
-- `minRating`
+- `minRating` (effective when `> 3.7`, max `5.0`)
 - `minRatings`
 - `yearFrom`
 - `yearTo`

@@ -4,6 +4,8 @@ import { getDb } from "@/lib/db";
 const DEFAULT_LIMIT = 24;
 const MAX_LIMIT = 48;
 const DEFAULT_SORT = "popular" as const;
+const MIN_RATING_FILTER = 3.7;
+const MAX_RATING_FILTER = 5;
 
 export type SortKey = "popular" | "rating" | "newest";
 
@@ -448,6 +450,14 @@ function validateCrossFields(data: BooksQueryParams) {
   }
 }
 
+function normalizeMinRatingFilter(minRating: number | undefined) {
+  if (minRating == null || minRating <= MIN_RATING_FILTER) {
+    return undefined;
+  }
+
+  return Math.min(MAX_RATING_FILTER, minRating);
+}
+
 export function safeParseBooksQueryParams(input: Record<string, string | string[] | undefined>) {
   const normalized = normalizeRawSearchParams(input);
   const parsed = searchParamInputSchema.safeParse(normalized);
@@ -455,8 +465,12 @@ export function safeParseBooksQueryParams(input: Record<string, string | string[
   if (!parsed.success) return parsed;
 
   try {
-    validateCrossFields(parsed.data);
-    return { success: true as const, data: parsed.data };
+    const data = {
+      ...parsed.data,
+      minRating: normalizeMinRatingFilter(parsed.data.minRating),
+    };
+    validateCrossFields(data);
+    return { success: true as const, data };
   } catch (error) {
     return {
       success: false as const,

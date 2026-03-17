@@ -28,6 +28,8 @@ type Props = {
 
 const YEAR_MIN = 1000;
 const YEAR_MAX = 2100;
+const MIN_RATING = 3.7;
+const MAX_RATING = 5;
 
 const DB_LANGUAGE_OPTIONS: FilterDropdownOption[] = [
   { value: "english", label: "英语（english）", count: 7152140 },
@@ -71,16 +73,18 @@ function withCurrentOption(options: FilterDropdownOption[], current: string) {
 }
 
 export function BooksFilterForm({ query, sortOptions }: Props) {
-  const [minRating, setMinRating] = useState<number>(query.minRating ?? 0);
+  const initialMinRating =
+    query.minRating == null ? MIN_RATING : Math.min(MAX_RATING, Math.max(MIN_RATING, query.minRating));
+  const [minRating, setMinRating] = useState<number>(initialMinRating);
   const [yearFrom, setYearFrom] = useState<number>(query.yearFrom ?? YEAR_MIN);
   const [yearTo, setYearTo] = useState<number>(query.yearTo ?? YEAR_MAX);
-  const hasMinRatingFilter = minRating > 0;
+  const hasMinRatingFilter = minRating > MIN_RATING;
   const hasYearFromFilter = yearFrom !== YEAR_MIN;
   const hasYearToFilter = yearTo !== YEAR_MAX;
 
   const languages = useMemo(() => withCurrentOption(DB_LANGUAGE_OPTIONS, query.lang), [query.lang]);
   const genres = useMemo(() => withCurrentOption(DB_GENRE_OPTIONS, query.genre), [query.genre]);
-  const ratingPercent = (minRating / 5) * 100;
+  const ratingPercent = ((minRating - MIN_RATING) / (MAX_RATING - MIN_RATING)) * 100;
   const yearRangePercent = {
     left: ((yearFrom - YEAR_MIN) / (YEAR_MAX - YEAR_MIN)) * 100,
     right: ((yearTo - YEAR_MIN) / (YEAR_MAX - YEAR_MIN)) * 100,
@@ -167,8 +171,8 @@ export function BooksFilterForm({ query, sortOptions }: Props) {
               id="minRating"
               name={hasMinRatingFilter ? "minRating" : undefined}
               type="range"
-              min={0}
-              max={5}
+              min={MIN_RATING}
+              max={MAX_RATING}
               step={0.1}
               value={minRating}
               onChange={(e) => setMinRating(Number(e.target.value))}
@@ -176,8 +180,8 @@ export function BooksFilterForm({ query, sortOptions }: Props) {
             />
           </div>
           <div className="mt-1 flex justify-between text-xs text-[var(--muted)]">
-            <span>0.0</span>
-            <span>5.0</span>
+            <span>{MIN_RATING.toFixed(1)}</span>
+            <span>{MAX_RATING.toFixed(1)}</span>
           </div>
         </div>
 
